@@ -1,0 +1,14 @@
+.message{
+    padding: 2px;
+    border-bottom: 1px gray solid;
+    border-radius: 2px;
+}
+.odd{
+    background-color: rgba(194, 238, 241, 0.534);
+}
+.me{
+    color: green;
+}
+.admin{
+    color: blue;
+}

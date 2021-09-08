@@ -1,0 +1,14 @@
+.users{
+    margin: 0px;
+    border:1px solid rgb(231, 220, 220) ;
+    padding: 1px;
+}
+.user{
+    background-color: rgb(194, 204, 218);
+    margin-top: 2px;
+    padding-left: 10px;
+    font-size: 1.3em;
+    border-bottom: 1px solid rgb(145, 143, 143);
+    border-radius: 2px;
+    box-shadow: 2px 2px 10px rgb(169, 180, 194);
+}

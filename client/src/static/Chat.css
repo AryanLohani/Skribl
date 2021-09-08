@@ -1,0 +1,18 @@
+.container{
+    margin: 0px;
+    height: 100vh;
+}
+.heading{
+    color: white;
+    background-color: rgb(44, 142, 223);
+}
+.section-1{
+    height: 90vh;
+}
+.side-chat{
+    word-wrap: break-word;
+    overflow-y: scroll;
+    overflow-x: visible;
+    border: 1px black solid;
+    max-height: 100%;
+}
