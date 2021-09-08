@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "nodemon server/index.js",
-    "build": "cd client && npm install && npm run build && npm install -g serve && serve -l 80 -s build && cd .."
+    "build": "cd client && npm install && npm run build && npm install -g serve && serve -l 5000 -s build && cd .."
   },
   "keywords": [],
   "author": "",
